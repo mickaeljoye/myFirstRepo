@@ -11,6 +11,7 @@ TEST4
 TEST5
 TEST6
 TEST7
+TEST8
 
 ## Running locally
 
