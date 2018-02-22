@@ -7,6 +7,7 @@ Sample docker image to test docker deployments
 TEST
 TEST2
 TEST3
+TEST4
 
 ## Running locally
 
